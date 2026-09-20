@@ -1,3 +1,5 @@
+// Header.jsx
+import './Header.css';
 function Header() {
   return (
     <header className="app-header">
